@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/henriquedebarros/acessapt/static/css/main.8d67462d.css",
-    "main.js": "/henriquedebarros/acessapt/static/js/main.5624d89e.js",
-    "static/media/mosteiro-jeronimos.jpg": "/henriquedebarros/acessapt/static/media/mosteiro-jeronimos.02a209c2baaa453219a3.jpg",
-    "static/media/convento-carmo.jpg": "/henriquedebarros/acessapt/static/media/convento-carmo.447988d7c9d00186ed5e.jpg",
-    "static/media/sao-domingos.jpg": "/henriquedebarros/acessapt/static/media/sao-domingos.e1bf2cfad664664c138e.jpg",
-    "static/media/parque-eduardo-viii.jpg": "/henriquedebarros/acessapt/static/media/parque-eduardo-viii.b508efc1c88668d9ee23.jpg",
-    "static/media/torre-belem.jpg": "/henriquedebarros/acessapt/static/media/torre-belem.20b94bd28c7f37db7100.jpg",
-    "static/media/se-lisboa.jpg": "/henriquedebarros/acessapt/static/media/se-lisboa.e570fa7bc255ccf4f2c6.jpg",
-    "static/media/miradouro.jpg": "/henriquedebarros/acessapt/static/media/miradouro.4541d06ba2469f45556c.jpg",
-    "static/media/jardim-zoo.jpg": "/henriquedebarros/acessapt/static/media/jardim-zoo.b19bdf0e0ea31f4390d7.jpg",
-    "static/media/chiado.jpg": "/henriquedebarros/acessapt/static/media/chiado.7af31b1cd22abf09174d.jpg",
-    "static/media/praca-comercio.jpg": "/henriquedebarros/acessapt/static/media/praca-comercio.db32e38b6bab7bb45c8e.jpg",
-    "static/media/padrao-descobrimentos.jpg": "/henriquedebarros/acessapt/static/media/padrao-descobrimentos.5273a0190c5a0a255c87.jpg",
-    "static/media/castelo-saojorge.webp": "/henriquedebarros/acessapt/static/media/castelo-saojorge.c762c4320d8e8eb47df0.webp",
-    "static/media/curator-photo.JPEG": "/henriquedebarros/acessapt/static/media/curator-photo.a752373f81a2b64c9ea2.JPEG",
-    "static/media/imagem-destaque.png": "/henriquedebarros/acessapt/static/media/imagem-destaque.39a4c6eef1eff431f4cc.png",
-    "static/media/logo-ebac.svg": "/henriquedebarros/acessapt/static/media/logo-ebac.2e73b68719accdcaec6a8b7a91ebdf9c.svg",
-    "static/media/logo-acessaPT.svg": "/henriquedebarros/acessapt/static/media/logo-acessaPT.9ddfd2ab56b7233ad8c6e3dab0a045d6.svg",
-    "index.html": "/henriquedebarros/acessapt/index.html",
-    "main.8d67462d.css.map": "/henriquedebarros/acessapt/static/css/main.8d67462d.css.map",
-    "main.5624d89e.js.map": "/henriquedebarros/acessapt/static/js/main.5624d89e.js.map"
+    "main.css": "/acessapt/static/css/main.8d67462d.css",
+    "main.js": "/acessapt/static/js/main.0247c07c.js",
+    "static/media/mosteiro-jeronimos.jpg": "/acessapt/static/media/mosteiro-jeronimos.02a209c2baaa453219a3.jpg",
+    "static/media/convento-carmo.jpg": "/acessapt/static/media/convento-carmo.447988d7c9d00186ed5e.jpg",
+    "static/media/sao-domingos.jpg": "/acessapt/static/media/sao-domingos.e1bf2cfad664664c138e.jpg",
+    "static/media/parque-eduardo-viii.jpg": "/acessapt/static/media/parque-eduardo-viii.b508efc1c88668d9ee23.jpg",
+    "static/media/torre-belem.jpg": "/acessapt/static/media/torre-belem.20b94bd28c7f37db7100.jpg",
+    "static/media/se-lisboa.jpg": "/acessapt/static/media/se-lisboa.e570fa7bc255ccf4f2c6.jpg",
+    "static/media/miradouro.jpg": "/acessapt/static/media/miradouro.4541d06ba2469f45556c.jpg",
+    "static/media/jardim-zoo.jpg": "/acessapt/static/media/jardim-zoo.b19bdf0e0ea31f4390d7.jpg",
+    "static/media/chiado.jpg": "/acessapt/static/media/chiado.7af31b1cd22abf09174d.jpg",
+    "static/media/praca-comercio.jpg": "/acessapt/static/media/praca-comercio.db32e38b6bab7bb45c8e.jpg",
+    "static/media/padrao-descobrimentos.jpg": "/acessapt/static/media/padrao-descobrimentos.5273a0190c5a0a255c87.jpg",
+    "static/media/castelo-saojorge.webp": "/acessapt/static/media/castelo-saojorge.c762c4320d8e8eb47df0.webp",
+    "static/media/curator-photo.JPEG": "/acessapt/static/media/curator-photo.a752373f81a2b64c9ea2.JPEG",
+    "static/media/imagem-destaque.png": "/acessapt/static/media/imagem-destaque.39a4c6eef1eff431f4cc.png",
+    "static/media/logo-ebac.svg": "/acessapt/static/media/logo-ebac.2e73b68719accdcaec6a8b7a91ebdf9c.svg",
+    "static/media/logo-acessaPT.svg": "/acessapt/static/media/logo-acessaPT.9ddfd2ab56b7233ad8c6e3dab0a045d6.svg",
+    "index.html": "/acessapt/index.html",
+    "main.8d67462d.css.map": "/acessapt/static/css/main.8d67462d.css.map",
+    "main.0247c07c.js.map": "/acessapt/static/js/main.0247c07c.js.map"
   },
   "entrypoints": [
     "static/css/main.8d67462d.css",
-    "static/js/main.5624d89e.js"
+    "static/js/main.0247c07c.js"
   ]
 }
