@@ -1,6 +1,4 @@
-import React, { useEffect, useContext } from 'react';
-import { useParams } from 'react-router';
-import { LocationContext } from '../../contexts/LocationContext';
+import React, { useContext } from 'react';
 import { FilterContext } from '../../contexts/FilterContext';
 import './style.scss';
 import imagemDestaque from '../../images/imagem-destaque.png';
@@ -10,9 +8,7 @@ const Places = [
     'Praças', 'Parques', 'Igrejas', 'Miradouros', 'Para crianças', 'Museus'
 ]
 
-const Home = () => {    
-    const {city, country} = useParams();
-    const {setCity, setCountry} = useContext(LocationContext);
+const Home = () => {
     const {filteredPlaces, setFilteredPlaces} = useContext(FilterContext);
 
     const handleFilterPlaces = (item) => {
@@ -22,21 +18,12 @@ const Home = () => {
         }
         setFilteredPlaces(item);
     }
-
-    useEffect(() => {
-        setCity(city)
-        setCountry(country)
-    }, [city, setCity, country, setCountry])
-
-    function capFirst(string) {
-        return string.charAt(0).toUpperCase() + string.slice(1);
-    }
     
     let i = 0;
     return(
         <main id="main-content" className="home__container">
             <div className="home__col">
-                <h1 className="home__title">{capFirst(city)} para toda a gente!</h1>
+                <h1 className="home__title">Lisboa para toda a gente!</h1>
                 <div className="home__image home__image--destaque hide-desktop">
                     <img src={imagemDestaque} alt="" />
                 </div>
