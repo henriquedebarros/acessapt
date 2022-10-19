@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.8d67462d.css",
-    "main.js": "./static/js/main.05e7661c.js",
+    "main.css": "./static/css/main.9c404892.css",
+    "main.js": "./static/js/main.b3ccab23.js",
     "static/media/mosteiro-jeronimos.jpg": "./static/media/mosteiro-jeronimos.02a209c2baaa453219a3.jpg",
     "static/media/convento-carmo.jpg": "./static/media/convento-carmo.447988d7c9d00186ed5e.jpg",
     "static/media/sao-domingos.jpg": "./static/media/sao-domingos.e1bf2cfad664664c138e.jpg",
@@ -19,11 +19,11 @@
     "static/media/logo-ebac.svg": "./static/media/logo-ebac.2e73b68719accdcaec6a8b7a91ebdf9c.svg",
     "static/media/logo-acessaPT.svg": "./static/media/logo-acessaPT.9ddfd2ab56b7233ad8c6e3dab0a045d6.svg",
     "index.html": "./index.html",
-    "main.8d67462d.css.map": "./static/css/main.8d67462d.css.map",
-    "main.05e7661c.js.map": "./static/js/main.05e7661c.js.map"
+    "main.9c404892.css.map": "./static/css/main.9c404892.css.map",
+    "main.b3ccab23.js.map": "./static/js/main.b3ccab23.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d67462d.css",
-    "static/js/main.05e7661c.js"
+    "static/css/main.9c404892.css",
+    "static/js/main.b3ccab23.js"
   ]
 }
